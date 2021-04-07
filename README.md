@@ -1,2 +1,2 @@
-# ML-Algorithms
+# Machine Learning Algorithms
 Machine Learning with Scikit Learn
